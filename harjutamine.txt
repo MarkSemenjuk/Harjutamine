@@ -1,1 +1,2 @@
 GitHub is a highly used software that is typically used for version control. It is helpful when more than just one person is working on a project.
+Github document the changes and reflect them in an organized manner to avoid any chaos between any of the files uploaded.
